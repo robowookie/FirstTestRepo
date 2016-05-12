@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="City Name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_CityName"
+        android:padding="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true" />
+    <TextView
+        android:text="Temp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_CurrentTemp"
+        android:padding="10dp"
+        android:layout_centerInParent="true"
+        android:layout_toLeftOf="@+id/iv_Image" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/iv_Image"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>

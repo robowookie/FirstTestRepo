@@ -1,0 +1,59 @@
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\Android Weather Assignment.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\Android Weather Assignment.pdb
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\Android_Weather_Assignment.Android_Weather_Assignment.apk
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\Android_Weather_Assignment.Android_Weather_Assignment-Signed.apk
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\Android Weather Assignment.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\Android Weather Assignment.pdb
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\android\bin\Android_Weather_Assignment.Android_Weather_Assignment.apk
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\layout\cityitemlayout.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\layout\main.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\values\strings.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\icon.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\R.cs.flag
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\uploadflags.txt
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\RestSharp.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\RestSharp.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\layout\forecastitemlayout.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\layout\forecast.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\chanceflurries.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\chancerain.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\chancesleet.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\chancesnow.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\chancetstorms.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\clear.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\cloudy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\flurries.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\fog.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\hazy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\mostlycloudy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\mostlysunny.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_chanceflurries.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_chancerain.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_chancesleet.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_chancesnow.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_chancetstorms.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_clear.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_cloudy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_flurries.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_fog.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_hazy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_mostlycloudy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_mostlysunny.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_partlycloudy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_partlysunny.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_rain.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_sleet.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_snow.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_sunny.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\nt_tstorms.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\partlycloudy.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\partlysunny.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\rain.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\sleet.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\snow.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\sunny.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\drawable\tstorms.png
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\res\layout\currentlocation.xml
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\Android Weather Assignment.csprojResolveAssemblyReference.cache
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\Android Weather Assignment.dll.mdb
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\bin\Debug\Android Weather Assignment.dll.mdb

@@ -1,0 +1,10 @@
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\Android Weather Assignment.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\mscorlib.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\RestSharp.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\System.Core.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\System.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\System.Xml.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\littl_000\documents\visual studio 2015\Projects\Android Weather Assignment\Android Weather Assignment\obj\Debug\assemblies\System.ServiceModel.Internals.dll
